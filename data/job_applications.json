@@ -1,0 +1,32 @@
+[
+  {
+    "company_name": "Microsoft",
+    "position_title": "Senior Sofware Engineer",
+    "application_date": "2025-08-19T10:04:27.002346",
+    "status": "pending",
+    "job_description": "\nWe are seeking a Senior Python Developer with expertise in web development \n    and data analysis. Our ideal candidate should have experience with Python, JavaScript, \n    SQL, and modern web frameworks. Strong problem-solving skills required. Should also have a good leadership skill and people management skill.\n",
+    "documents_generated": [
+      "resume"
+    ]
+  },
+  {
+    "company_name": "Hublot",
+    "position_title": "Senior Python Develope",
+    "application_date": "2025-08-19T10:22:42.234208",
+    "status": "pending",
+    "job_description": "\nWe are seeking a Senior Python Developer with expertise in web development \n    and data analysis. Our ideal candidate should have experience with Python, JavaScript, \n    SQL, and modern web frameworks. Strong problem-solving skills required. Should also have a good leadership skill and people management skill.\n",
+    "documents_generated": [
+      "resume"
+    ]
+  },
+  {
+    "company_name": "Hublot",
+    "position_title": "Senior Python Developer",
+    "application_date": "2025-08-19T10:24:08.044951",
+    "status": "pending",
+    "job_description": "We are seeking a Senior Python Developer with expertise in web development \n    and data analysis. Our ideal candidate should have experience with Python, JavaScript, \n    SQL, and modern web frameworks. Strong problem-solving skills required. Should also have a good leadership skill and people management skill.",
+    "documents_generated": [
+      "cover_letter"
+    ]
+  }
+]
